@@ -87,7 +87,7 @@ h4 small {
 	opacity:1;
 }
 section {
-	padding:50px 0 40px 0;
+	padding:15px 0 0px 0;
 }
 
 iframe, embed, object {
@@ -129,7 +129,7 @@ blockquote {
 
 .tile{
 	border-radius: 10px;
-	padding: 20px 10px 20px 10px;
+	padding: 10px 10px 20px 10px;
     background-color: #fff;
 }
 
@@ -173,7 +173,7 @@ blockquote {
 
 .heading {
 	text-align:center;
-    padding: 10px 0 10px;
+    padding: 0px 0 10px;
 	width:100%;
 	margin:20px 0 15px 0;
 }
@@ -181,7 +181,7 @@ blockquote {
 .heading h3{
     color:#000;
 	text-transform:uppercase;
-	padding:0;
+	padding:0px;
 	margin:20px 0 30px 0;
 	font-size: x-larger;
 	font-weight:700;
@@ -230,7 +230,7 @@ section.dark .heading2 h3{
 .sub-heading {
 	text-align: center;
 	font-family:"Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-	margin:20px 20px 20px 20px;
+	margin:0px 20px 20px 20px;
 }
 
 .sub-heading-l {
@@ -242,7 +242,7 @@ section.dark .heading2 h3{
 
 .sub-heading p {
 	font-family:"Helvetica Neue", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
-	margin:20px 20px 20px 20px;
+	margin:10px 20px 10px 20px;
 	font-size: 20px;
 	line-height:1.6em;
 	color: #3a3a3a;
